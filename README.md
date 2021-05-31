@@ -17,7 +17,7 @@
 ### Summary:
 
 ##### In summary, three recommendations I propose to the CEO include:
--
--
--
+- **Increase marketing efforts in rural cities.**  Though total rides, total drivers, and total fares are lowest in the rural cities, there are higher margins on average fare per ride and average fare per driver due to potential longer commutes in rural cities (in comparison to shorter trips in urban cities resulting in lower fares).
+- **Incentivize ride-sharing in suburban cities.** Suburban cities perform the second best in terms of overall fares and to continue gaining steady revenue in this category, PyBer could provide customers with incentive programs such as loyalty programs.
+- **Ensure sufficient amount of drivers always available in urban cities.** Don't miss an opportunity for business to competitors!  Therefore always have enough drivers available in urban cities to shorten customer wait time and increase ride-sharing availability to PyBer customers.
 
