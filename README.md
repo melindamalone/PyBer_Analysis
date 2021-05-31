@@ -12,7 +12,7 @@
 
 ![](analysis/PyBer_summary.PNG)
 
-![](analysis/PyBer_fare_summary.PNG)
+![](analysis/PyBer_fare_summary.png)
 
 ### Summary:
 
